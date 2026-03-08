@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a student
+👩‍🎓I am a student
+📜Check my resume here -"C:\Users\CHARANYA_KC\Documents\my documnet\Charanya final resume12 (1).pdf"
+👩‍💻I am a python and SQL learner
+📫Reach out to me at charanyachanakeshav6@gmail.com
+
 
 
 ## 🌐 Socials:
